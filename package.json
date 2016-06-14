@@ -1,0 +1,7 @@
+{
+	"name": "directions-optimiser",
+	"version": "0.0.1",
+	"dependencies": {
+		"material-design-lite": "^1"
+	}
+}
